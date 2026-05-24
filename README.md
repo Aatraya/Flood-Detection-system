@@ -2,7 +2,7 @@
 
 ## DESCRIPTION 
 * This project is a machine learning pipeline used to predict risk of flooding in urban bengaluru areas
-* The ML model uses a spatial cross verification with random forest algorithm to generate a reliable classification report.
+* The ML model uses a spatial cross validation with random forest algorithm to generate a reliable classification report.
 * Using this model , the predict.ipynb creates a risk map and generates the areas with high flood risk.
 
 ## DATASETS USED 
